@@ -1,4 +1,4 @@
-package com.gb.java.hw1;
+package com.gb.java.hw.hw1;
 
 import javax.swing.*;
 import java.awt.*;
