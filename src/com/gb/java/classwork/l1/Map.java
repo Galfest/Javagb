@@ -1,4 +1,4 @@
-package com.gb.java.classwork;
+package com.gb.java.classwork.l1;
 
 import javax.swing.*;
 import java.awt.*;
