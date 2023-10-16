@@ -18,6 +18,10 @@ public class Ball extends Sprite{
         vY = 100f + (float)(Math.random() * 200f);
     }
 
-
+    @Override
+    void render(MainCanvas canvas, Graphics g){
+        g.setColor(Color.BLACK);
+        g.fillOval((int)getLeft(), (int)getTop(), (int)getHeight(), (int)getWidth());
+    }
 
 }
