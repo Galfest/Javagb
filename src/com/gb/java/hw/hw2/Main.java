@@ -1,8 +1,8 @@
-package com.gb.java.classwork.l2.practice;
+package com.gb.java.hw.hw2;
 
 
-import com.gb.java.classwork.l2.practice.client.ClientGUI;
-import com.gb.java.classwork.l2.practice.server.ServerWindow;
+import com.gb.java.hw.hw2.client.ui.ClientGUI;
+import com.gb.java.hw.hw2.server.ui.ServerWindow;
 
 public class Main {
     public static void main(String[] args) {
