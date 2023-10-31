@@ -1,4 +1,4 @@
-package com.gb.java.classwork.l2;
+package com.gb.java.classwork.l2.lection;
 
 import java.awt.*;
 import java.util.Random;
